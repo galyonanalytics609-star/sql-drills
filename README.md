@@ -1,0 +1,2 @@
+# sql-drills
+For SQL
