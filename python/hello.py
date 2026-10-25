@@ -1,1 +1,1 @@
-git add python/hello.py
+print("hello_world")
